@@ -1,0 +1,44 @@
+[submodule "00_libft"]
+	path = 00_libft
+	url = https://github.com/julien-ctx/42_libft
+	branch = main
+[submodule "01_ft_printf"]
+	path = 01_ft_printf
+	url = https://github.com/julien-ctx/42_ft_printf
+	branch = main
+[submodule "02_get_next_line"]
+	path = 02_get_next_line
+	url = https://github.com/julien-ctx/42_get_next_line
+	branch = main
+[submodule "03_born2beroot"]
+	path = 03_born2beroot
+	url = https://github.com/julien-ctx/42_born2beroot
+	branch = main
+[submodule "04_minitalk"]
+	path = 04_minitalk
+	url = https://github.com/julien-ctx/42_minitalk
+	branch = main
+[submodule "05_fdf"]
+	path = 05_fdf
+	url = https://github.com/julien-ctx/42_fdf
+	branch = main
+[submodule "06_push_swap"]
+	path = 06_push_swap
+	url = https://github.com/julien-ctx/42_push_swap
+	branch = main
+[submodule "07_philosophers"]
+	path = 07_philosophers
+	url = https://github.com/julien-ctx/42_philosophers
+	branch = main
+[submodule "08_minishell"]
+	path = 08_minishell
+	url = https://github.com/julien-ctx/42_minishell
+	branch = main
+[submodule "09_cub3d"]
+	path = 09_cub3d
+	url = https://github.com/julien-ctx/42_cub3d
+	branch = master
+[submodule "10_cpp_modules"]
+	path = 10_cpp_modules
+	url = https://github.com/julien-ctx/42_cpp_modules
+	branch = master
