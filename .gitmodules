@@ -42,3 +42,9 @@
 	path = 10_cpp_modules
 	url = https://github.com/julien-ctx/42_cpp_modules
 	branch = master
+[submodule "11_ft_containers"]
+	path = 11_ft_containers
+	url = git@github.com:julien-ctx/42_ft_containers.git
+[submodule "12_webserv"]
+	path = 12_webserv
+	url = git@github.com:julien-ctx/42_webserv.git
